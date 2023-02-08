@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoitNewton
-- 👀 I’m interested in CODE AND PHYSICS
+- 👀 I’m interested in CODE and PHYSICS
 - 🌱 I’m currently learning theoretical physics
-- 💞️ I’m looking to build a quantum computer and a GF
+- 💞️ I’m looking to build a quantum computer and have a GF
 - 📫 How to reach me : musikundpku@qq.com
 
 <!---
